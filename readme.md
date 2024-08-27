@@ -22,5 +22,7 @@ Leemos un archivos ```.csv``` y lo convertimos a formato json y posteriormente b
   * pnpm install @vitejs/plugin-vue -D
 * Errores en dependencia: Instalar Typos:
   * Eliminar las carpetas node_modules en cada proyectos y ejecutar el comnando pnpm i
-# Agradecimientos: #
+###
+[Video demo:](https://x.com/Victor__Noguera/status/1828447565471273461)
+## Agradecimientos: ##
 Este proyecto fu realizado en base al proyecto de [@midudev](https://github.com/midudev) [en su canal de youtube](https://www.youtube.com/watch?v=MmfoLqiu1A0)
