@@ -2,7 +2,7 @@
 En esta prueba tecnica usamos Reac Junto a NodeJs, montamos backend y frontend en entornos separados, pero interactuando entre ellos. 
 Leemos un archivos ```.csv``` y lo convertimos a formato json y posteriormente buscamos en sus registros.
 
-![Example](https://github.com/vhngroup/Create-Captcha_Python/blob/main/Captcha.png)
+![Example](https://github.com/vhngroup/Prueba-ShawandPartners-Full-Stack-Junior/static/blob/main/image.png)
 
 ## Alistamiento de entorno ##
 * Tener instalado Nodejs
